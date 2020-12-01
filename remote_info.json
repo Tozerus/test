@@ -4,7 +4,7 @@
     "minecraft": "1.7.10",
     "forge": "10.13.4.1614",
     "syncDir": "mods,Flan",
-    "syncUrl": "http://deadlife.my-board.org/sync/",
+    "syncUrl": "https://github.com/Tozerus/test/tree/main/sync",
     "welcome": "Bienvenue sur l'installateur DeadLife",
     "JVMarg":"-Xmx1536M",
     "webSite":"https://discord.gg/kKkP2hsVz6",
